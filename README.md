@@ -13,6 +13,6 @@ I am Caezarie Enriquez. Aspiring ----  .
 
 Get in touch wit me!
 
-:e-mail: <a href="mailto:enriquez.caezarie@gmail.com">Send an e-mail</a>
+:e-mail: <a href="enriquez.caezarie@gmail.com">Send an e-mail</a>
 
 :link: <a href="https://www.linkedin.com/in/caezarie-enriquez-0b88792bb">Send message</a>

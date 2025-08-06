@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi Fellow Devs :wave:
 
-<!--
-**zarious-dev/zarious-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+I am Caezarie Enriquez. Aspiring ----  .
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zarious-dev&show_icons=true" alt="Caezarie Enriquez Github Stats"></img>
+</p>
 
-Here are some ideas to get you started:
+## Contact me :speech_balloon:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get in touch wit me!
+
+:e-mail: <a href="mailto:enriquez.caezarie@gmail.com">Send an e-mail</a>
+
+:link: <a href="www.linkedin.com/in/caezarie-enriquez-0b88792bb">Send message</a>

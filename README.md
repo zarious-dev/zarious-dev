@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Caezarie 👋 </h1>
-<h3 align="center">A passionate BSIS student and Aspiring SQA Analyst</h3>
+<h3 align="center">A passionate BSIS student</h3>
 <p align="center">404: Social life not found.</p>
 
 <p align="center">
